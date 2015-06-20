@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/cal/homes/acoquoin/workspace/moissina-pact_2014_43/javacv-leger/javacv-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="/cal/homes/acoquoin/workspace/moissina-pact_2014_43/javacv-leger/javacv-bin/opencv.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

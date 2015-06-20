@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Schw\'Apps</string>
+    <string name="welcome">Bienvenue dans Schw\'Apps !</string>
+    <string name="classic">Mode Classique</string>
+    <string name="adventure">Mode Aventure</string>
+    <string name="begin">Commencer</string>
+    <string name="creations">Mes Créations</string>
+    <string name="settings">Options</string>
+    <string name="quit">Quitter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Options</string>
+    <string name="title_activity_classic_mode">Mode Classique</string>
+    <string name="instructions">Choisissez une image et une musique, Schw\'Apps
+    se charge de déterminer le cocktail qui correspond le mieux !</string>
+    <string name="step1">Etape 1: choisissez une image sur votre téléphone ou prenez une photo !
+    </string>
+    <string name="image">Image</string>
+    <string name="photo">Photo</string>
+    <string name="step2">Etape 2: choisissez une musique sur votre téléphone
+        (format .WAV et une durée d\'au moins 5s) ou enregistrer le son ambiant !</string>
+    <string name="musique">Musique</string>
+    <string name="enregistrement">Enregistrement</string>
+    <string name="title_activity_adventure_mode">Mode Aventure</string>
+    <string name="title_activity_creations">Mes Créations</string>
+    <string name="wip">Activité en construction</string>
+    <string name="title_activity_settings">Options</string>
+    <string name="alcools">Alcools</string>
+    <string name="vodka">Vodka</string>
+    <string name="whisky">Whisky</string>
+    <string name="tequila">Tequila</string>
+    <string name="gin">Gin</string>
+    <string name="rhum_blanc">Rhum Blanc</string>
+    <string name="rhum_brun">Rhum Brun</string>
+    <string name="absinthe">Absinthe</string>
+    <string name="triple_sec">Triple sec</string>
+    <string name="softs">Boissons softs</string>
+    <string name="pomme">Jus de pomme</string>
+    <string name="orange">Jus d\'orange</string>
+    <string name="pamplemousse">Jus de pamplemousse</string>
+    <string name="coke">Coca-Cola</string>
+    <string name="coco">Crème de coco</string>
+    <string name="ananas">Jus d\'ananas</string>
+    <string name="schweppes">Schweppes</string>
+    <string name="cranberry">Jus de cranberry</string>
+    <string name="redbull">Redbull</string>
+    <string name="materiel">Matériel</string>
+    <string name="shaker">Shaker</string>
+    <string name="shaking">Shakez le téléphone !</string>
+    <string name="description">Une image de votre cocktail !</string>
+    <string name="menu">Retour au menu</string>
+    <string name="verre">Verre à mélange</string>
+    <string name="title_activity_camera">Photo</string>
+    <string name="title_activity_image">Choix de l\'image</string>
+    <string name="title_activity_recording">Choix de musique</string>
+    <string name="title_activity_input">Choix de l\'image</string>
+    <string name="title_activity_music">Choix de musique</string>
+    <string name="title_activity_cocktail">Votre cocktail !</string>
+    <string name="title_activity_input2">Choix de musique</string>
+    <string name="cocktail_title">Voici ton cocktail !</string>
+    <string name="cocktail_menu">Retour au Menu</string>
+    <string name="b_menu">Retour au menu</string>
+    <string name="recipe">New Text</string>
+    <string name="recipesexonthebeach">:-)</string>
+    <string name="gonext">Suivant</string>
+    <string name="go">LET IT GO !</string>
+    <string name="title_activity_loading_screen">Calcul en cours</string>
+    <string name="recording_instructions">Vous pouvez lancer un enregistrement du son ambiant en cliquant
+    sur le bouton "Démarrer". Nous vous conseillons une durée d\'enregistrement d\'environ 5 secondes</string>
+    <string name="start_recording">Démarrer</string>
+    <string name="stop_recording">Arrêter</string>
+    <string name="retour">Retour</string>
+
+</resources>

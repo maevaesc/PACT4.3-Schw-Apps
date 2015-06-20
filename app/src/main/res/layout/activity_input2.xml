@@ -1,0 +1,68 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_activity_input2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.marsapact.schwapps.Input2Activity">
+
+    <TextView
+        android:id="@+id/tv_step2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="@string/step2"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ff000000" />
+
+    <Button
+        android:id="@+id/b_musique"
+        android:layout_width="135dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tv_step2"
+        android:layout_marginTop="28dp"
+        android:background="#90000000"
+        android:text="@string/musique"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/b_enregistrement"
+        android:layout_width="135dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/b_musique"
+        android:background="#90000000"
+        android:text="@string/enregistrement"
+        android:textColor="#ffffff" />
+
+
+    <TextView
+        android:id="@+id/musicPathFile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/b_enregistrement"
+        android:layout_marginTop="25dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#ff000000" />
+
+    <Button
+        android:id="@+id/nextstep2"
+        android:layout_width="135dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/b_musique"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:background="#90000000"
+        android:text="@string/go"
+        android:textColor="#ffffff" />
+
+
+</RelativeLayout>

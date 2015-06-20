@@ -1,0 +1,82 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_activity_input"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.marsapact.schwapps.InputActivity">
+
+    <TextView
+        android:id="@+id/tv_instructions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/instructions"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ff000000" />
+
+    <View
+        android:id="@+id/lign1"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:layout_below="@id/tv_instructions"
+        android:layout_marginTop="20dp"
+        android:background="#ff000000" />
+
+    <TextView
+        android:id="@+id/tv_step1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lign1"
+        android:layout_marginTop="20dp"
+        android:text="@string/step1"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ff000000" />
+
+    <Button
+        android:id="@+id/b_image"
+        android:layout_width="125dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/tv_step1"
+        android:layout_marginTop="30dp"
+        android:background="#90000000"
+        android:text="@string/image"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/b_photo"
+        android:layout_width="125dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/tv_step1"
+        android:layout_marginTop="30dp"
+        android:background="#90000000"
+        android:text="@string/photo"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/imagePathFile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/b_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#ff000000" />
+
+    <Button
+        android:id="@+id/nextstep1"
+        android:layout_width="125dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/imagePathFile"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:background="#90000000"
+        android:text="@string/gonext"
+        android:textColor="#ffffff" />
+</RelativeLayout>
+
+
