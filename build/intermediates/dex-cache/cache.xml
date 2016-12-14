@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Godefroy\Workspace\Schwapps\app\libs\commons-math3-3.4.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3ac44a8664228384bc68437264cf7c4cf112f579">
-        <dex dex="C:\Users\Godefroy\Workspace\Schwapps\app\build\intermediates\pre-dexed\debug\commons-math3-3.4.1-0bc046542384872553bfca79cad113fdd23c5885.jar" />
-    </item>
-    <item
-        jar="C:\Users\Godefroy\Workspace\Schwapps\app\libs\jtransforms-2.4.jar"
+        jar="E:\Users\Godefroy\Workspace\Schwapps\app\libs\jtransforms-2.4.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="9e52124b670340d47844a734e36765c3bc11b7f3">
-        <dex dex="C:\Users\Godefroy\Workspace\Schwapps\app\build\intermediates\pre-dexed\debug\jtransforms-2.4-250cf9f5855cd568849e77179bcf09900132a7ee.jar" />
+        <dex dex="E:\Users\Godefroy\Workspace\Schwapps\app\build\intermediates\pre-dexed\debug\jtransforms-2.4-3e83ff2348cdc92f7fe4e49adaaacbb992446454.jar" />
+    </item>
+    <item
+        jar="E:\Users\Godefroy\Workspace\Schwapps\app\libs\commons-math3-3.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3ac44a8664228384bc68437264cf7c4cf112f579">
+        <dex dex="E:\Users\Godefroy\Workspace\Schwapps\app\build\intermediates\pre-dexed\debug\commons-math3-3.4.1-6c3eedc86055dea3d8ab53920e79e21c607e4325.jar" />
     </item>
 
 </items>

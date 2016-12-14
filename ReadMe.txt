@@ -1,1 +1,0 @@
-Schw'Apps - Application Android
