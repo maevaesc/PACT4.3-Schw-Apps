@@ -1,4 +1,4 @@
-Schw'Apps - Application Android
+# Schw'Apps - Application Android
 
   PACT, ou Projet d’Apprentissage Collaboratif Thématique de Telecom ParisTech, est une unité d’enseignement de première année. Chacun des 20 groupes, constitué de 8 à 9 élèves de première année, réalise un projet qu’il a lui-même conçu, inventé. L’originalité de PACT vient du fait que ce sont les élèves eux-mêmes qui fixent l’ambition du projet, et, pour parvenir au résultat, mobilisent de manière autonome, les éléments techniques et humains nécessaires.
 
