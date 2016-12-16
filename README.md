@@ -1,6 +1,6 @@
-# Schw'Apps - Application Android
+# Application Android
 
-  PACT, ou Projet d’Apprentissage Collaboratif Thématique de Telecom ParisTech, est une unité d’enseignement de première année. Chacun des 20 groupes, constitué de 8 à 9 élèves de première année, réalise un projet qu’il a lui-même conçu, inventé. L’originalité de PACT vient du fait que ce sont les élèves eux-mêmes qui fixent l’ambition du projet, et, pour parvenir au résultat, mobilisent de manière autonome, les éléments techniques et humains nécessaires.
+  Le Projet d’Apprentissage Collaboratif Thématique de Telecom ParisTech, est une unité d’enseignement de première année. Chacun des 20 groupes, constitué de 8 à 9 élèves de première année, réalise un projet qu’il a lui-même conçu, inventé. L’originalité vient du fait que ce sont les élèves eux-mêmes qui fixent l’ambition du projet, et, pour parvenir au résultat, mobilisent de manière autonome, les éléments techniques et humains nécessaires.
 
   Le principe de notre sujet s’appuie sur le célèbre instrument imaginaire de Boris Vian décrit dans L’écume des jours: Le pianocktail. Cette machine, en fonction de la musique jouée par le pianiste, verse directement un cocktail dont la saveur rappelle les sensations éprouvées lors de l'écoute du morceau. Notre idée de base est donc de lier l'ouïe et le goût à travers un projet qui tire certaines informations d’une musique et permettrait de générer, à partir de l’analyse de celle-ci, une recette. 
 
