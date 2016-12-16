@@ -11,6 +11,8 @@
   I coded an Adaboost algorithm to do recognition of musics by genre.
   The database used was composed of 5 music kinds, it used the MFCC (Mel Frequency Cpstrum coefficients) as a vector to characterize musics.
   
+# Screenshots of the application
+  
   
   
   
