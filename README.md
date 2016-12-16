@@ -6,7 +6,7 @@
 
   Tout cela se fera via une application Android, qui affichera la recette et l’image du cocktail et fournira à l’utilisateur les justifications nécessaires concernant le choix de la recette, pour que cela se différencie d’une recette générée au hasard. Nous avons d’autre part eu l’idée d’ajouter une nouvelle fonctionnalité à notre application: l’utilisation d’une image pour compléter la création du cocktail. Il s’agira d’analyser l’image choisie par l’utilisateur et de joindre son analyse (teinte dominante, clusters de teintes,…) à celle de la musique dans l’opération de détermination du cocktail.
   
-  # Implemented modules
+# Implemented modules
   
   I coded an Adaboost algorithm to do recognition of musics by genre.
   The database used was composed of 5 music kinds, it used the MFCC (Mel Frequency Cpstrum coefficients) as a vector to characterize musics.
