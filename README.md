@@ -19,7 +19,7 @@
 
 # Poster
 
-<img src="Poster.pdf">
+[Poster.pdf](Poster.pdf)
 
   
   
