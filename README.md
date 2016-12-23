@@ -8,7 +8,7 @@
   
 # Implemented modules
   
-  I coded an Adaboost algorithm to do recognition of musics by genre.
+  I coded an Adaboost algorithm to do recognition of musics by genre and the MFCC part to extract music tone.
   The database used was composed of 5 music kinds (rock, pop, disco, classique, jazz.), it used the MFCC (Mel Frequency Cepstrum coefficients) as a vector to characterize musics.
   
 # Screenshots 
